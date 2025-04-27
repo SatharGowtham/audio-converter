@@ -1,0 +1,4 @@
+﻿flask==2.0.1
+flask-cors==3.0.10
+speechrecognition==3.8.1
+pydub==0.25.1
